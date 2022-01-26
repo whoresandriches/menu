@@ -4,7 +4,7 @@ const copyRap = () => {
     copyRap.select();
     copyRap.setSelectionRange(0, 99999);
   
-    navigator.clipboard.writeText(`Hey there, I’m selling pics, videos and meetup sex. Do you want to see the menu?❤️ if you’re interested in a meetup may I know where are you based?`);
+    navigator.clipboard.writeText(`Hey there, I’m an escort selling custom pics, videos and you can also book me for meetups as well. if you’re interested in a meetup may I know where are you based?😊🥰`);
 }
 
 
