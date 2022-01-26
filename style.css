@@ -137,3 +137,21 @@ button:active{
     outline:none;
     padding-right:10px;
 }
+
+.container .asking-cash { 
+    position:relative;
+    padding:10px;
+    background:#fff;
+    border:1px solid #ddd;
+    border-radius:10px;
+    display:flex;
+}
+
+.container .asking-cash input {
+    padding:10px;
+    font-size:18px;
+    color:#555;
+    border:none;
+    outline:none;
+    padding-right:10px;
+}
