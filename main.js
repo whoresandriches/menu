@@ -44,7 +44,7 @@ const copyZelle = () => {
 }
 
 const copyCash = () => {
-    const copyCash = document.getElementById("cashapp-text");
+    const copyCash = document.getElementById("asking-cash");
 
     copyCash.select();
     copyCash.setSelectionRange(0, 99999);
