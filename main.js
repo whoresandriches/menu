@@ -24,16 +24,6 @@ If you want an extra hour that’d be $50 more!
 (oral is included in all of this meets because what’s great sex without oral🥰) `);
 }
 
-const copyAskingCash = () => {
-    const copyMenu = document.getElementById("asking-cash");
-
-    copyMenu.select();
-    copyMenu.setSelectionRange(0, 99999);
-  
-    navigator.clipboard.writeText(`I do accept cash but for new customers I take 50% to make sure that they are serious and make sure Im getting money`);
-}
-
-
 const copyZelle = () => {
     const copyZelle = document.getElementById("zelle-text");
 
@@ -49,7 +39,8 @@ const copyCash = () => {
     copyCash.select();
     copyCash.setSelectionRange(0, 99999);
   
-    navigator.clipboard.writeText(copyCash.value);
+    navigator.clipboard.writeText("I do accept cash but for new customers I take 50% to make sure that they are serious and make sure Im getting money
+");
 }
 
 const copyVenmo = () => {
