@@ -4,7 +4,7 @@ const copyRap = () => {
     copyRap.select();
     copyRap.setSelectionRange(0, 99999);
   
-    navigator.clipboard.writeText(`Hey there, I’m selling pics, videos and meetup sex. Do you want to see the menu?❤️ if you’re interested in a meetup may I know where are you based?`);
+    navigator.clipboard.writeText(`Hey there, I’m an escort selling custom pics, videos and you can also book me for meetups as well. if you’re interested in a meetup may I know where are you based?🥰😊`);
 }
 
 
@@ -24,6 +24,7 @@ If you want an extra hour that’d be $50 more!
 (oral is included in all of this meets because what’s great sex without oral🥰) `);
 }
 
+
 const copyZelle = () => {
     const copyZelle = document.getElementById("zelle-text");
 
@@ -34,13 +35,12 @@ const copyZelle = () => {
 }
 
 const copyCash = () => {
-    const copyCash = document.getElementById("asking-cash");
+    const copyCash = document.getElementById("cashapp-text");
 
     copyCash.select();
     copyCash.setSelectionRange(0, 99999);
   
-    navigator.clipboard.writeText("I do accept cash but for new customers I take 50% to make sure that they are serious and make sure Im getting money
-");
+    navigator.clipboard.writeText(`I do accept cash but for new customers I take 50% to make sure that they are serious and make sure Im getting money`);
 }
 
 const copyVenmo = () => {
